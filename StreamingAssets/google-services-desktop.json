@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "624927632490",
+    "project_id": "cube-puncher",
+    "storage_bucket": "cube-puncher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.dgame.cubepuncher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "",
+                "app_store_id": ""
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
